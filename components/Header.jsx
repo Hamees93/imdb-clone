@@ -17,6 +17,7 @@ const Header = () => {
         width={100}
         height={100}
         className="cursor-pointer active:brightness-110"
+        alt="logo"
       />
     </div>
   );
